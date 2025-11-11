@@ -1,2 +1,4 @@
 # Beginner-Reposit.
-Storage For My Basic Stuff.
+I Store my stuff here. It's very basic containing starter level scripts and codes from my tinkers.
+
+All stuff is usable for copy, idc.
